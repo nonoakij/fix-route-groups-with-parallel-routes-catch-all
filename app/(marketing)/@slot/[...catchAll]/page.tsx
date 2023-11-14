@@ -1,3 +1,3 @@
 export default function Page() {
-  return "slot in marketing group";
+  return "@slot catchall in marketing group";
 }

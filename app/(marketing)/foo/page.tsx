@@ -1,3 +1,3 @@
 export default function Page() {
-  return "foo in shop group";
+  return "foo in marketing group";
 }
