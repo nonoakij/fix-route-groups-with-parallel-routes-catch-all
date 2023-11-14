@@ -1,4 +1,4 @@
-Minimal Repository to reproduce this issue: <https://github.com/vercel/next.js/issues/58272>
+Minimal Repository to reproduce this issue: [<https://github.com/vercel/next.js/issues/58272>](https://github.com/vercel/next.js/issues/58449)
 
 ```shell
 npm run build
