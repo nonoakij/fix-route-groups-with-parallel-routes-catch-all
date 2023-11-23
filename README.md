@@ -1,11 +1,12 @@
-Minimal Repository to reproduce this issue: https://github.com/vercel/next.js/issues/58449
+# Minimal Repository to reproduce this issue: <https://github.com/vercel/next.js/issues/58449>
+
 ```shell
 npm run build
 
 > fix-route-groups-with-parallel-routes-catch-all@0.1.0 build
 > next build
 
-   ▲ Next.js 14.0.4-canary.2
+   ▲ Next.js 14.0.4-canary.11
 
 Failed to compile.
 
