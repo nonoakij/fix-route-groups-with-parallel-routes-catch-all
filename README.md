@@ -6,7 +6,7 @@ npm run build
 > fix-route-groups-with-parallel-routes-catch-all@0.1.0 build
 > next build
 
-   ▲ Next.js 14.0.4-canary.11
+   ▲ Next.js 14.0.5-canary.5
 
 Failed to compile.
 
@@ -15,5 +15,5 @@ You cannot have two parallel pages that resolve to the same path. Please check /
 
 
 > Build failed because of webpack errors
-   Creating an optimized production build  .%   
+   Creating an optimized production build  .%
 ```
